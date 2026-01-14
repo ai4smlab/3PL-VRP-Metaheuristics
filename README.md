@@ -1,8 +1,8 @@
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/3PL-AdaptiveRouting/blob/main/LICENSE)
-![Last Commit](https://img.shields.io/github/last-commit/ai4smlab//3PL-AdaptiveRouting)
-![Repo Size](https://img.shields.io/github/repo-size/ai4smlab//3PL-AdaptiveRouting)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/3PL-VRP-Metaheuristics/blob/main/LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/ai4smlab/3PL-VRP-Metaheuristics)
+![Repo Size](https://img.shields.io/github/repo-size/ai4smlab/3PL-VRP-Metaheuristics)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![GitHub Stars](https://img.shields.io/github/stars/ai4smlab//3PL-AdaptiveRouting?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ai4smlab/3PL-VRP-Metaheuristics?style=social)
 
 
 <div align="center">
