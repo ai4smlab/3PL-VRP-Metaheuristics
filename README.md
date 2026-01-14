@@ -115,7 +115,3 @@ BibTeX:
 ```
 
 ---
-
-### 🏁 Acknowledgment
-
-Research conducted at **KFUPM** in collaboration with **UBT**, utilizing real-world data from Dammam, Saudi Arabia. Route distances provided by **OpenRouteService**, based on **OpenStreetMap**.
