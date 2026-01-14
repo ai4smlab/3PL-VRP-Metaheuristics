@@ -60,21 +60,20 @@ It uses **real-world customer demand and urban road network data** from Dammam, 
 
 ### 🗺️ Data Description
 
-| File | Description |
-|------|-------------|
-| `data/customers.geojson` | Real customer coordinates across Dammam |
-| `data/distance_matrix.csv` | OpenRouteService-based distances between all nodes |
-| `data/vehicle_info.json` | Depot locations and vehicle specs |
+Data file `3pl_data.xlsx` contains the following information:
 
----
+* Real customer coordinates across Dammam
+* Depot locations and vehicle specs
+* OpenRouteService-based distances between all nodes
+
 
 ### 🧪 Sample Outputs
 
-**GA Convergence Comparison**  
-<img src="images/GA_convergence.png" alt="GA Convergence" width="400px">
+**Real-world routes BY OpenRouteService (ORS)**  
+<img src="images/1.png" alt="GA Convergence" width="400px">
 
-**Adaptive SA Route Plan**  
-<img src="images/adaptive_SA_route.png" alt="SA Route" width="400px">
+**Real-road routing for adaptive SA with 300 iterations.**  
+<img src="images/2.png" alt="SA Route" width="400px">
 
 ---
 
