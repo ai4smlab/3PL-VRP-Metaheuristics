@@ -1,9 +1,9 @@
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/3PL-AdaptiveRouting/blob/main/LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/ai4smlab//3PL-AdaptiveRouting)
+![Repo Size](https://img.shields.io/github/repo-size/ai4smlab//3PL-AdaptiveRouting)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub Stars](https://img.shields.io/github/stars/ai4smlab//3PL-AdaptiveRouting?style=social)
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/your-org/3PL-AdaptiveRouting/blob/main/LICENSE)  
-![Last Commit](https://img.shields.io/github/last-commit/your-org/3PL-AdaptiveRouting)  
-![Repo Size](https://img.shields.io/github/repo-size/your-org/3PL-AdaptiveRouting)  
-![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)  
-![GitHub Stars](https://img.shields.io/github/stars/your-org/3PL-AdaptiveRouting?style=social)
 
 <div align="center">
 
